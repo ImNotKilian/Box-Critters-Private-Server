@@ -1,4 +1,4 @@
-# bcprivate
+# Box Critters Private Server
 A Box Critters Private Server
 
 ## Getting Started
